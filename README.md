@@ -310,3 +310,9 @@ streamlit run app/app.py
 # 👨‍💻 Author
 
 **Vignesh Gonda**
+
+## 🚀 Live Demo
+
+🎯 **Try the application here**
+
+### 🌐 https://credit-card-fraud-detection-6tfcy7s6uxbcrrztprfwhn.streamlit.app/
